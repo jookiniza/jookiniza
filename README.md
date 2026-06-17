@@ -1,4 +1,4 @@
-# **Jokin Izaguirre Perez** — AI/ML Engineer & Researcher
+# **Jokin Izaguirre Perez** — AI/ML Engineering Student & Researcher
 
 **I build NLP and ML systems that work in the real world — from multilingual transformers to GPU-parallel computing.**
 
