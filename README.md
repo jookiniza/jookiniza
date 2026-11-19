@@ -17,8 +17,8 @@
 
 ## 📍 Currently
 
-- 🎓 **3rd-year AI student @ UPV/EHU**
-- - ✈️ **Incoming exchange @ University of Padova** (Cybersecurity MSc)
+- 🎓 **4rd-year AI student @ UPV/EHU**
+- - ✈️ **Exchange @ University of Padova** (Cybersecurity MSc)
   - - 💼 **Open to internships and remote roles** in AI/ML, NLP, and MLOps
    
     - ---
